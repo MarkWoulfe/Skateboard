@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\VelocityRotate.cs" />
+     <None Include="Assets\OutPost\Resources\Assets\Materials\2sided.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity5.2.2/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
